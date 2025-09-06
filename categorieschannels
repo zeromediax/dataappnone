@@ -1,57 +1,16 @@
 [
   {
-    "categorie": "eventos",
-    "image": "https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ_400x400.jpg",
+    "categorie": "Series",
+    "image": "https://pbs.twimg.com/profile_banners/1158448860882251776/1722963251/1500x500",
     "contenido": [
       {
-        "image": "https://img.golazoplay.com/uploads/espn_16110aaa3a.webp",
-        "source": "https://la14hd.com/vivo/canales.php?stream=espn",
-        "title": "ESPN",
-        "uagent": "ver",
-        "referer": ""
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ_400x400.jpg",
-        "source": "http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8",
-        "title": "Father There Is Only One 4",
-        "uagent": "",
-        "referer": ""
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1605507392036556801/D7GfGi2N_400x400.jpg",
-        "source": "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8",
-        "title": "Unitel",
-        "uagent": "",
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxYoM_400x400.jpg",
+        "source": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1_7kDhYkny-9Dk4iCNCFJBS7ZBKxJPkaSHgAHcQ7mMQQS0WYRD2puw6YHo1W6JD3C88PN1LkbZCicqeJDaCf1XN0tXIyLnUQhJm23Po9873JbbICIzs5sq_4wfK7vtYmfJp_AqdBTUWJ8_FWRZq-o1VOyRX-RHhWhCK_BDdLfo5Z4LzSNM4rpya_TRv9ULVGhbLtTO03TU2kygGGkW5WAW4Fnd0XveH_2gn8dM06i7do0X0V4O3d46w-CJNn85I2gNMBZtws5Vn2jI7v7aUQuQ87xTOWAm-rTgELq6YeYA-BY8knxI7Kxru_sXGKRReApHwvW3YPWfCndRbJ-da7DFJlh-MDME6VCEUciPg3cgz4Z-kUI-Nxutd/63e2c49449350/b7e03d4db828aa6ea9da4b060ed54fd2a6b1d4fcc48bcd8adf1ed3465adc4863/720p/playlist.m3u8",
+        "title": "Jurassic World: El Renacer",
+        "uagent": "exoplayer",
         "referer": ""
       }
     ]
-  },
-  {
-    "categorie": "deportes",
-    "image": "https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ_400x400.jpg",
-    "contenido": [
-      {
-        "image": "https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ_400x400.jpg",
-        "source": "http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8",
-        "title": "Litus",
-        "uagent": "",
-        "referer": ""
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1605507392036556801/D7GfGi2N_400x400.jpg",
-        "source": "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8",
-        "title": "Unitel",
-        "uagent": "",
-        "referer": ""
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1605507392036556801/D7GfGi2N_400x400.jpg",
-        "source": "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8",
-        "title": "Unitel",
-        "uagent": "",
-        "referer": ""
-      }
-    ]
-  }
+  } 
 ]
 

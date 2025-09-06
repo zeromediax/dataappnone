@@ -28,6 +28,66 @@
       "image":"https://pbs.twimg.com/profile_images/1796098295812567041/Pe_t5loe_400x400.jpg",
       "source":"https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8",
       "title":"DW"
+   },
+   {
+      "image":"https://pbs.twimg.com/profile_images/1819376223916613632/1BnWL_SV_400x400.jpg",
+      "source":"https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8",
+      "title":"TV Peru"
+   },
+  {
+      "image":"https://pbs.twimg.com/profile_images/1679692822004285440/p1ZHyeFj_400x400.jpg",
+      "source":"https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/5732e714-712b-4da3-a8c7-0c2b76807608:SCL/master.m3u8",
+      "title":"America"
+   },
+  {
+      "image":"https://pbs.twimg.com/profile_images/1753180785329233921/WMrMJGgP_400x400.jpg",
+      "source":"https://streamer03.digital.com.bo/session/dcc855aa-8593-11ef-971a-00505683ffaa$h1.0$default/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8",
+      "title":"Red Uno"
+   },
+  {
+      "image":"https://pbs.twimg.com/profile_images/1830618782986813440/MXdAHLEA_400x400.jpg",
+      "source":"https://5f2c1b0d880e5.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8",
+      "title":"Bolivia TV"
+   },
+   {
+      "image":"https://pbs.twimg.com/profile_images/1333469705777127427/vhblqtWD_400x400.jpg",
+      "source":"https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
+      "title":"ATV Peru"
+   },
+  {
+      "image":"https://pbs.twimg.com/profile_images/1344843564535132160/xT96d8Zv_400x400.jpg",
+      "source":"https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/index.m3u8",
+      "title":"EL Trece"
+   },
+   {
+      "image":"https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ_400x400.jpg",
+      "source":"http://192.99.38.174:1935/litustv/ngrp:litustv_all/chunklist_w1539020401_b1531904.m3u8",
+      "title":"Litus"
+   },
+   {
+      "image":"https://pbs.twimg.com/profile_images/1605507392036556801/D7GfGi2N_400x400.jpg",
+      "source":"https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8",
+      "title":"Unitel"
+   },
+   {
+      "image":"https://pbs.twimg.com/profile_images/1144312867447025665/F7eOXFKJ_400x400.jpg",
+      "source":"https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8",
+      "title":"Canal 9"
+   },
+   {
+      "image":"https://play-lh.googleusercontent.com/Mk6wqM_HjUmAMSbNNtDo-sU-J4mZxx-5uNCgenmr8vJQHhowuAz4g17x0on8gG9rv2tB",
+      "source":"http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8",
+      "title":"RTP"
+   },
+   {
+      "image":"https://pbs.twimg.com/profile_images/1075497247129911296/_RyuQ8I4_400x400.jpg",
+      "source":"https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8",
+      "title":"Net TV"
+   },
+   {
+      "image":"https://pbs.twimg.com/profile_images/900335405580550144/EpLMIlFW_400x400.jpg",
+      "source":"https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8",
+      "title":"DW"
    }
 ]
 

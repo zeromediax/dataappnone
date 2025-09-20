@@ -1,2 +1,29 @@
-
-
+[
+  {
+    "categorie": "Canales Deportivos",
+    "image": "https://pbs.twimg.com/profile_banners/195947234/1745972359/1500x500",
+    "contenido": [
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "https://ats-edge-inde-8.live.clarovtrcdn.vtrplay.com/espn2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+        "title": "ESPN",
+        "uagent": "exoplayer",
+        "referer": ""
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "https://ats-edge-inde-8.live.clarovtrcdn.vtrplay.com/espnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+        "title": "ESPN 2",
+        "uagent": "exoplayer",
+        "referer": ""
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "https://ats-edge-inde-8.live.clarovtrcdn.vtrplay.com/espn3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+        "title": "ESPN 3",
+        "uagent": "exoplayer",
+        "referer": ""
+      }
+    ]
+  } 
+]

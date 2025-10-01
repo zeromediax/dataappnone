@@ -140,6 +140,20 @@
         "title": "DIRECT TV",
         "uagent": "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414",
         "referer": ""
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "https://futbollibrelibre.com/canales.php?stream=telemundo",
+        "title": "TELEMUNDO",
+        "uagent": "Ver",
+        "referer": ""
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "https://futbollibrelibre.com/canales.php?stream=universo",
+        "title": "UNIVERSO",
+        "uagent": "Ver",
+        "referer": ""
       }
     ]
   }

@@ -194,6 +194,117 @@
     ]
   },
   {
+    "categorie": "Premium",
+    "image": "https://pbs.twimg.com/media/Grk-Wo9XAAAd-vl?format=jpg&name=4096x4096",
+    "contenido": [
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "http://104.238.205.28:8989/165849_.m3u8",
+        "title": "HBO",
+        "uagent": "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414",
+        "referer": ""
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "https://ats-edge-inde-8.live.clarovtrcdn.vtrplay.com/hboxtremehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+        "title": "HBO XTREME",
+        "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "referer": ""
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "https://netplay.sv/multimedia/live/mobile-094/playlist.m3u8",
+        "title": "HBO 2",
+        "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "referer": "https://netplay.sv/"
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8",
+        "title": "HBO PLUS",
+        "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "referer": ""
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "https://ats-edge-inde-8.live.clarovtrcdn.vtrplay.com/hbomundihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+        "title": "HBO MUNDI",
+        "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "referer": ""
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "https://ats-edge-inde-8.live.clarovtrcdn.vtrplay.com/hbosignaturehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+        "title": "HBO ASIGNATURE",
+        "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "referer": ""
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "https://magmaplayer.com/stream/m3u8/ZmRlKmHmBS8lBQNjBzWzZQcvAQNkBwRkAzV6AQyzLwcuMGExBzHmA2Z6ZwVmMI8kAmDjAQR/hls/538.m3u8",
+        "title": "HBO POP",
+        "uagent": "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414",
+        "referer": ""
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "http://190.11.225.124:5000/live/golden_hd/playlist.m3u8",
+        "title": "GOLDEN",
+        "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "referer": ""
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "http://172.93.102.112:8989/158783_.m3u8",
+        "title": "GOLDEN PLUS",
+        "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "referer": ""
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "http://104.194.8.54:8989/278480_.m3u8",
+        "title": "GOLDEN EDGE",
+        "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "referer": ""
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "https://netplay.sv/multimedia/live/mobile-057/playlist.m3u8",
+        "title": "STAR CHANNEL",
+        "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "referer": "https://netplay.sv/"
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "https://netplay.sv/multimedia/live/mobile-026/playlist.m3u8",
+        "title": "STUDIO UNIVERSAL",
+        "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "referer": "https://netplay.sv/"
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "http://104.238.205.28:8989/278423_.m3u8",
+        "title": "EURO CHANNEL",
+        "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "referer": ""
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "http://199.127.63.105:8989/278473_.m3u8",
+        "title": "UNIVERSAL COMEDIA",
+        "uagent": "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414",
+        "referer": ""
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "http://45.184.87.142:8000/play/a059",
+        "title": "UNIVERSAL REALITY",
+        "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "referer": ""
+      }
+    ]
+  },
+  {
     "categorie": "Mundial Sub 20",
     "image": "https://pbs.twimg.com/media/Grk-Wo9XAAAd-vl?format=jpg&name=4096x4096",
     "contenido": [

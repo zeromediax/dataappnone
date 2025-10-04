@@ -194,6 +194,75 @@
     ]
   },
   {
+    "categorie": "Infantiles",
+    "image": "https://pbs.twimg.com/media/Grk-Wo9XAAAd-vl?format=jpg&name=4096x4096",
+    "contenido": [
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "https://ats-edge-inde-8.live.clarovtrcdn.vtrplay.com/cartoonhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+        "title": "CARTOON NETWORK",
+        "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "referer": ""
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "https://ats-edge-inde-8.live.clarovtrcdn.vtrplay.com/boomeranghdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+        "title": "CARTOONITO",
+        "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "referer": ""
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "https://netplay.sv/multimedia/live/mobile-002/playlist.m3u8",
+        "title": "TOONCAST",
+        "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "referer": "https://netplay.sv/"
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "https://netplay.sv/multimedia/live/mobile-060/playlist.m3u8",
+        "title": "BABY TV",
+        "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "referer": "https://netplay.sv/"
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "https://ats-edge-inde-8.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+        "title": "DISNEY JUNIOR",
+        "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "referer": ""
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "https://netplay.sv/multimedia/live/mobile-011/playlist.m3u8",
+        "title": "NICK JR",
+        "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "referer": "https://netplay.sv/"
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "https://netplay.sv/multimedia/live/mobile-112/playlist.m3u8",
+        "title": "NICKELODEON",
+        "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "referer": "https://netplay.sv/"
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "http://190.60.33.245:4002/play/a0kd",
+        "title": "BITME",
+        "uagent": "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414",
+        "referer": ""
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "https://netplay.sv/multimedia/live/mobile-099/playlist.m3u8",
+        "title": "DREAM CHANNEL",
+        "uagent": "VisualOn OSMP+ Player(Linux;Android)",
+        "referer": "https://netplay.sv/"
+      }
+    ]
+  },
+  {
     "categorie": "Premium",
     "image": "https://pbs.twimg.com/media/Grk-Wo9XAAAd-vl?format=jpg&name=4096x4096",
     "contenido": [

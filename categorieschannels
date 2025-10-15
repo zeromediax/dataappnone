@@ -446,6 +446,209 @@
         "title": "UNIVERSAL REALITY",
         "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
         "referer": ""
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "https://netplay.sv/multimedia/live/mobile-158/playlist.m3u8",
+        "title": "A&E",
+        "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "referer": "https://netplay.sv/"
+      },
+      {
+          "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+          "source": "https://ats-edge-inde-8.live.clarovtrcdn.vtrplay.com/a3serieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+          "title": "A3SERIES",
+          "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
+          "referer": ""
+      },
+      {
+          "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+          "source": "https://ats-edge-inde-8.live.clarovtrcdn.vtrplay.com/cinecanalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+          "title": "CINE CANAL",
+          "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
+          "referer": ""
+      },
+      {
+          "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+          "source": "https://ats-edge-inde-8.live.clarovtrcdn.vtrplay.com/amchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+          "title": "AMC",
+          "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
+          "referer": ""
+      },
+      {
+          "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+          "source": "https://ats-edge-inde-8.live.clarovtrcdn.vtrplay.com/tnthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+          "title": "TNT",
+          "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
+          "referer": ""
+      },
+      {
+          "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+          "source": "https://ats-edge-inde-8.live.clarovtrcdn.vtrplay.com/tntserieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+          "title": "TNT SERIES",
+          "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
+          "referer": ""
+      },
+      {
+          "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+          "source": "https://ats-edge-inde-8.live.clarovtrcdn.vtrplay.com/fxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+          "title": "FX",
+          "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
+          "referer": ""
+      },
+      {
+          "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+          "source": "https://ats-edge-inde-8.live.clarovtrcdn.vtrplay.com/cinemaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+          "title": "CINEMAX",
+          "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
+          "referer": ""
+      },
+      {
+          "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+          "source": "https://ats-edge-inde-8.live.clarovtrcdn.vtrplay.com/tbshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+          "title": "TNT NOVELAS",
+          "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
+          "referer": ""
+      },
+      {
+          "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+          "source": "https://ats-edge-inde-8.live.clarovtrcdn.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+          "title": "SPACE",
+          "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
+          "referer": ""
+      },
+      {
+          "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+          "source": "https://ats-edge-inde-8.live.clarovtrcdn.vtrplay.com/syfyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+          "title": "SYFY",
+          "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
+          "referer": ""
+      },
+      {
+          "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+          "source": "https://ats-edge-inde-8.live.clarovtrcdn.vtrplay.com/tcmsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+          "title": "TCM",
+          "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
+          "referer": ""
+      },
+      {
+          "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+          "source": "https://netplay.sv/multimedia/live/mobile-064/playlist.m3u8",
+          "title": "UNIVERSAL",
+          "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+          "referer": "https://netplay.sv/"
+      },
+      {
+          "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+          "source": "http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8",
+          "title": "DHE",
+          "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+          "referer": ""
+      },
+      {
+          "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+          "source": "http://199.127.63.105:8989/278521_.m3u8",
+          "title": "CINE LATINO",
+          "uagent": "Roku/DVP(10.10.10)",
+          "referer": ""
+      },
+      {
+          "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+          "source": "https://netplay.sv/multimedia/live/mobile-035/playlist.m3u8",
+          "title": "SONY",
+          "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+          "referer": "https://netplay.sv/"
+      },
+      {
+          "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+          "source": "https://netplay.sv/multimedia/live/mobile-030/playlist.m3u8",
+          "title": "WARNER",
+          "uagent": "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414",
+          "referer": "https://netplay.sv/"
+      },
+      {
+          "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+          "source": "https://netplay.sv/multimedia/live/mobile-048/playlist.m3u8",
+          "title": "AXN",
+          "uagent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",
+          "referer": "https://netplay.sv/"
+      },
+      {
+          "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+          "source": "https://netplay.sv/multimedia/live/mobile-001/playlist.m3u8",
+          "title": "COMEDY CENTRAL",
+          "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+          "referer": "https://netplay.sv/"
+      },
+      {
+          "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+          "source": "http://104.238.205.28:8989/278705_.m3u8",
+          "title": "GALAVISION",
+          "uagent": "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414",
+          "referer": ""
+      },
+      {
+          "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+          "source": "https://netplay.sv/multimedia/live/mobile-142/playlist.m3u8",
+          "title": "FILMS ARTS",
+          "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+          "referer": "https://netplay.sv/"
+      },
+      {
+          "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+          "source": "http://172.93.102.112:8989/158755_.m3u8",
+          "title": "UNIVISION",
+          "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+          "referer": ""
+      },
+      {
+          "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+          "source": "https://netplay.sv/multimedia/live/mobile-040/playlist.m3u8",
+          "title": "TELEMUNDO",
+          "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+          "referer": "https://netplay.sv/"
+      },
+      {
+          "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+          "source": "http://104.194.8.54:8989/278446_.m3u8",
+          "title": "UNICABLE",
+          "uagent": "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414",
+          "referer": ""
+      },
+      {
+          "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+          "source": "http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8",
+          "title": "EXTREMA TV",
+          "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+          "referer": ""
+      },
+      {
+          "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+          "source": "https://netplay.sv/multimedia/live/mobile-154/playlist.m3u8",
+          "title": "LIFETIME",
+          "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+          "referer": "https://netplay.sv/"
+      },
+      {
+          "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+          "source": "https://netplay.sv/multimedia/live/mobile-146/playlist.m3u8",
+          "title": "MAS CHIC",
+          "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+          "referer": "https://netplay.sv/"
+      },
+      {
+          "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+          "source": "https://netplay.sv/multimedia/live/mobile-013/playlist.m3u8",
+          "title": "HOLATV",
+          "uagent": "",
+          "referer": "https://netplay.sv/"
+      },
+      {
+          "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+          "source": "https://netplay.sv/multimedia/live/mobile-014/playlist.m3u8",
+          "title": "PASIONES",
+          "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+          "referer": "https://netplay.sv/"
       }
     ]
   },

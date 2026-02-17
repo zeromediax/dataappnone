@@ -33,13 +33,6 @@
       },
       {
         "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "http://konoha1.b-cdn.net/live/rlzzqy/s.m3u8",
-        "title": "ESPN CH",
-        "uagent": "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)",
-        "referer": ""
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
         "source": "http://konoha1.b-cdn.net/live/sodnfe/s.m3u8",
         "title": "ESPN PE",
         "uagent": "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)",

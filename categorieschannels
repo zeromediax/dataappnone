@@ -5,248 +5,45 @@
     "contenido": [
       {
         "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8",
+        "source": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
         "title": "BEIN EXTRA",
         "uagent": "exoplayer",
         "referer": ""
       },
       {
         "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "https://ats-edge-inde-8.live.clarovtrcdn.vtrplay.com/l1maxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-        "title": "LIGA 1 MAX",
-        "uagent": "exoplayer",
-        "referer": ""
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "http://stream06.b-cdn.net/live/espn1argenco/s.m3u8",
-        "title": "ESPN ARG",
-        "uagent": "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)",
-        "referer": ""
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "http://stream06.b-cdn.net/live/espn1ecu/s.m3u8",
-        "title": "ESPN CO",
-        "uagent": "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)",
-        "referer": ""
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "http://konoha1.b-cdn.net/live/sodnfe/s.m3u8",
-        "title": "ESPN PE",
-        "uagent": "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)",
-        "referer": ""
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "https://ats-edge-inde-8.live.clarovtrcdn.vtrplay.com/espn2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+        "source": "http://cdnhrz01.latincable.com.pe/Panel_ESPN_HD/index.m3u8",
         "title": "ESPN",
-        "uagent": "exoplayer",
+        "uagent": "vLjiLpXkrStmOpQxUrijBfXkYtMnFdR",
         "referer": ""
       },
       {
         "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "https://ats-edge-inde-8.live.clarovtrcdn.vtrplay.com/espnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-        "title": "ESPN 2",
-        "uagent": "exoplayer",
+        "source": "http://cdnhrz01.latincable.com.pe/Panel_ESPN2_HD/index.m3u8",
+        "title": "ESPN2",
+        "uagent": "vLjiLpXkrStmOpQxUrijBfXkYtMnFdR",
         "referer": ""
       },
       {
         "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "https://ats-edge-inde-8.live.clarovtrcdn.vtrplay.com/espn3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-        "title": "ESPN 3",
-        "uagent": "exoplayer",
+        "source": "http://cdnhrz01.latincable.com.pe/Panel_ESPN3_HD/index.m3u8",
+        "title": "ESPN3",
+        "uagent": "vLjiLpXkrStmOpQxUrijBfXkYtMnFdR",
         "referer": ""
       },
       {
         "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "http://bantel-cdn4.iptvperu.tv:1935/7v5vVh/espn4.stream/playlist.m3u8",
-        "title": "ESPN 4",
-        "uagent": "VisualOn OSMP+ Player(Linux;Android)",
+        "source": "http://cdnhrz01.latincable.com.pe/Panel_ESPN4_HD/index.m3u8",
+        "title": "ESPN4",
+        "uagent": "vLjiLpXkrStmOpQxUrijBfXkYtMnFdR",
         "referer": ""
       },
       {
         "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "http://bantel-cdn4.iptvperu.tv:1935/sM5Iw9/espn5.stream/playlist.m3u8",
-        "title": "ESPN 5",
-        "uagent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",
+        "source": "http://cdnhrz01.latincable.com.pe/Panel_ESPN6_HD/index.m3u8",
+        "title": "ESPN6",
+        "uagent": "vLjiLpXkrStmOpQxUrijBfXkYtMnFdR",
         "referer": ""
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "http://bantel-cdn4.iptvperu.tv:1935/e43Gyk/espn6.stream/playlist.m3u8",
-        "title": "ESPN 6",
-        "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-        "referer": ""
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "http://104.238.205.28:8989/278776_.m3u8",
-        "title": "TNT SPORTS AR",
-        "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-        "referer": "https://vodkapr3mium.com/"
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "http://104.238.205.28:8989/278778_.m3u8",
-        "title": "TyC SPORTS",
-        "uagent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",
-        "referer": ""
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "http://104.238.205.28:8989/278756_.m3u8",
-        "title": "DEPORTV",
-        "uagent": "zona.deportivaofficial/23.0 (Linux;Android 6.0.1) ExoPlayerLib/2.14.0",
-        "referer": ""
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "http://104.238.205.28:8989/278766_.m3u8",
-        "title": "FOX SPORTS",
-        "uagent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",
-        "referer": ""
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "http://104.238.205.28:8989/278767_.m3u8",
-        "title": "FOX SPORTS 2",
-        "uagent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",
-        "referer": ""
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "http://104.238.205.28:8989/278768_.m3u8",
-        "title": "FOX SPORTS 3",
-        "uagent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",
-        "referer": ""
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "http://stream06.b-cdn.net/live/dtvsports1ec/s.m3u8",
-        "title": "DTV Sports EC",
-        "uagent": "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)",
-        "referer": ""
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "http://konoha1.b-cdn.net/live/thfzet/s.m3u8",
-        "title": "DTV Sports PE",
-        "uagent": "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)",
-        "referer": ""
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "http://stream06.b-cdn.net/live/dtvsports1arg/s.m3u8",
-        "title": "DTV Sports ARG",
-        "uagent": "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)",
-        "referer": ""
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "http://konoha1.b-cdn.net/live/jwissv/s.m3u8",
-        "title": "DTV Sports CO",
-        "uagent": "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)",
-        "referer": ""
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "http://konoha1.b-cdn.net/live/wktwwz/s.m3u8",
-        "title": "DTV Sports 2 EC",
-        "uagent": "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)",
-        "referer": ""
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "http://konoha1.b-cdn.net/live/vzwrdx/s.m3u8",
-        "title": "DTV Sports 2 PE",
-        "uagent": "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)",
-        "referer": ""
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "http://konoha1.b-cdn.net/live/pffnof/s.m3u8",
-        "title": "DTV Sports + EC",
-        "uagent": "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)",
-        "referer": ""
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "http://konoha1.b-cdn.net/live/jblval/s.m3u8",
-        "title": "DTV Figth",
-        "uagent": "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)",
-        "referer": ""
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "http://konoha1.b-cdn.net/live/yolggm/s.m3u8",
-        "title": "DNews",
-        "uagent": "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)",
-        "referer": ""
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8",
-        "title": "CLARO SPORTS",
-        "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-        "referer": ""
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "https://netplay.sv/multimedia/live/mobile-010/playlist.m3u8",
-        "title": "FOX SPORTS MX",
-        "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-        "referer": "https://netplay.sv/"
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "https://netplay.sv/multimedia/live/mobile-031/playlist.m3u8",
-        "title": "FOX SPORTS MX 2",
-        "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-        "referer": "https://netplay.sv/"
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "https://netplay.sv/multimedia/live/mobile-108/playlist.m3u8",
-        "title": "FOX SPORTS MX 3",
-        "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-        "referer": "https://netplay.sv/"
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "https://netplay.sv/multimedia/live/mobile-032/playlist.m3u8",
-        "title": "ESPN MX",
-        "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-        "referer": "https://netplay.sv/"
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcWZ4aEUzT3pOZHlheWdZRzF4N2djc3FWcjhlQlY5cXIySkJJbkwwPQ/master.m3u8",
-        "title": "ESPN 4 MX",
-        "uagent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",
-        "referer": "https://liveboxpro.com/"
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8",
-        "title": "ESPN DEPORTES",
-        "uagent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",
-        "referer": ""
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhiWWVIaUZnY2dhaHQvb3QvbDBLR0gxSy96VEtqdlNXcUF3TUJaWEU9/master.m3u8",
-        "title": "FOX DEPORTES",
-        "uagent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",
-        "referer": "https://liveboxpro.com/"
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhiWWVHaUZnY2dhaHQvb3QvbHlJc0RBa2JIRlEwWGN4TlZvRUtLMms9/master.m3u8",
-        "title": "TNT SPORTS CL",
-        "uagent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",
-        "referer": "https://liveboxpro.com/"
       }
     ]
   },

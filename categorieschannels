@@ -111,6 +111,13 @@
         "title": "DISNEY JUNIOR",
         "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
         "referer": ""
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "http://veltixzone11.b-cdn.net/live/dkfocj/s.m3u8",
+        "title": "CARTOON NETWORK",
+        "uagent": "exoplayer",
+        "referer": ""
       }
     ]
   },
@@ -123,6 +130,13 @@
         "source": "http://190.11.225.124:5000/live/golden_hd/playlist.m3u8",
         "title": "GOLDEN",
         "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "referer": ""
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "http://veltixzone33.b-cdn.net/live/amcseriesflow/s.m3u8",
+        "title": "AMC Series",
+        "uagent": "exoplayer",
         "referer": ""
       }
     ]

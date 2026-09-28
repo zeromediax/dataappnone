@@ -12,38 +12,31 @@
       },
       {
         "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "http://cdnhrz01.latincable.com.pe/Panel_ESPN_HD/index.m3u8",
+        "source": "http://209.126.119.148:20102/live/6bab42d310634a5b962ff48c7ec2e89d/d1d31285fba548319985ba4fcf4fea25/403.m3u8",
         "title": "ESPN",
-        "uagent": "vLjiLpXkrStmOpQxUrijBfXkYtMnFdR",
-        "referer": ""
+        "uagent": "MediaPlayerPro15",
+        "referer": "http://vortex.tv"
       },
       {
         "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "http://cdnhrz01.latincable.com.pe/Panel_ESPN2_HD/index.m3u8",
+        "source": "http://209.126.119.148:20102/live/513eb5e851954c5d80a3597c8547f3b3/3f650558b3284f058a8510bcca32597c/404.m3u8",
         "title": "ESPN2",
-        "uagent": "vLjiLpXkrStmOpQxUrijBfXkYtMnFdR",
-        "referer": ""
+        "uagent": "MediaPlayerPro15",
+        "referer": "http://vortex.tv"
       },
       {
         "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "http://cdnhrz01.latincable.com.pe/Panel_ESPN3_HD/index.m3u8",
+        "source": "http://209.126.119.148:20102/live/fc78f0b5971f4dd3a85c079fc20d1e2c/ff1cfda4e5394f86812683dd6051afad/405.m3u8",
         "title": "ESPN3",
-        "uagent": "vLjiLpXkrStmOpQxUrijBfXkYtMnFdR",
-        "referer": ""
+        "uagent": "MediaPlayerPro15",
+        "referer": "http://vortex.tv"
       },
       {
         "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "http://cdnhrz01.latincable.com.pe/Panel_ESPN4_HD/index.m3u8",
-        "title": "ESPN4",
-        "uagent": "vLjiLpXkrStmOpQxUrijBfXkYtMnFdR",
-        "referer": ""
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "http://cdnhrz01.latincable.com.pe/Panel_ESPN6_HD/index.m3u8",
-        "title": "ESPN6",
-        "uagent": "vLjiLpXkrStmOpQxUrijBfXkYtMnFdR",
-        "referer": ""
+        "source": "http://209.126.119.148:20102/live/069436786c1545b6bd931c4d0712754d/287d1d9c3d834669b60ee46b8acd836d/420.m3u8",
+        "title": "TUDN",
+        "uagent": "MediaPlayerPro15",
+        "referer": "http://vortex.tv"
       }
     ]
   },

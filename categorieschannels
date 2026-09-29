@@ -73,10 +73,10 @@
     "contenido": [
       {
         "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "http://190.11.225.124:5000/live/discovery_world_hd/playlist.m3u8",
-        "title": "DISCOVERY WORLD",
-        "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-        "referer": ""
+        "source": "http://209.126.106.30:8081/live/2974b649b79d4bc7a64f4e8637d69384/d2893114efb14fbdb0e333d4a04155b7/43.m3u8",
+        "title": "ANIMAL PLANET",
+        "uagent": "MediaPlayerPro15",
+        "referer": "http://vortex.tv"
       },
       {
         "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",

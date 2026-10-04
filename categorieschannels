@@ -157,17 +157,45 @@
       },
       {
         "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "http://190.11.225.124:5000/live/discovery_theater_hd/playlist.m3u8",
-        "title": "DISCOVERY THEATER",
-        "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-        "referer": ""
+        "source": "http://209.126.106.30:8081/live/b07c4fe99362449a88858787c081c770/00cd57a440704a7995a010ac49559720/51.m3u8",
+        "title": "HISTORY 2",
+        "uagent": "MediaPlayerPro15",
+        "referer": "http://vortex.tv"
       },
       {
         "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "https://mediapackage-hgtv-source.fullscreen.nz/index.m3u8",
-        "title": "HGTV",
-        "uagent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-        "referer": ""
+        "source": "http://209.126.106.30:8081/live/4f3071b953704551858c2702095f2e27/bc104f79cba940caa7a0559cf0995c11/52.m3u8",
+        "title": "HISTORY CHANNEL",
+        "uagent": "MediaPlayerPro15",
+        "referer": "http://vortex.tv"
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "http://209.126.106.30:8081/live/a67cee5f36e245589629f002c292e354/c19dfce4e1b34123a947d1eacebbe85a/53.m3u8",
+        "title": "NAT GEO",
+        "uagent": "MediaPlayerPro15",
+        "referer": "http://vortex.tv"
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "http://209.126.106.30:8081/live/daa5bccb934c426991664aa193465ba0/dbd5534634e048bda82a569a1d65df74/46.m3u8",
+        "title": "DISCOVERY CHANNEL",
+        "uagent": "MediaPlayerPro15",
+        "referer": "http://vortex.tv"
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "http://209.126.106.30:8081/live/4757ada4db09488e8b909a71b9af3b8d/2ee168e8cc864d32baee88eed347be4b/49.m3u8",
+        "title": "DISCOVERY INVESTIGATION",
+        "uagent": "MediaPlayerPro15",
+        "referer": "http://vortex.tv"
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "http://209.126.106.30:8081/live/ec28fafc47544120aa0a1d3f050ba67f/d4755e72041443f0a9ea8d9186502130/48.m3u8",
+        "title": "DISCOVERY TURBO",
+        "uagent": "MediaPlayerPro15",
+        "referer": "http://vortex.tv"
       }
     ]
   },

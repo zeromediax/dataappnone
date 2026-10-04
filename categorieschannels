@@ -212,10 +212,31 @@
       },
       {
         "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
-        "source": "http://veltixzone11.b-cdn.net/live/dkfocj/s.m3u8",
+        "source": "http://209.126.106.30:8081/live/b5f22885cedc40448e06e889317ebadc/80f9561f27444d00a27f123a7479e4d4/34.m3u8",
         "title": "CARTOON NETWORK",
-        "uagent": "exoplayer",
-        "referer": ""
+        "uagent": "MediaPlayerPro15",
+        "referer": "http://vortex.tv"
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "http://209.126.106.30:8081/live/cfe348a284974881b7db90c338a05a09/f262025569a346b5900f3f9a7f963d46/36.m3u8",
+        "title": "DISNEY CHANNEL",
+        "uagent": "MediaPlayerPro15",
+        "referer": "http://vortex.tv"
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "http://209.126.106.30:8081/live/1f08c8ec7dc144dab36d6e5fbf4e540c/c0b1a8a47e5c48d4b5ac0c9150d6aaa2/37.m3u8",
+        "title": "DISNEY JUNIOR",
+        "uagent": "MediaPlayerPro15",
+        "referer": "http://vortex.tv"
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "http://209.126.106.30:8081/live/9352f5e379ef435190605ee6157ca2b9/77ace9483eb64b18b8f06c229391b4da/40.m3u8",
+        "title": "TOONCAST",
+        "uagent": "MediaPlayerPro15",
+        "referer": "http://vortex.tv"
       }
     ]
   },

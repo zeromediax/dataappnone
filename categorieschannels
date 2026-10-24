@@ -23,6 +23,55 @@
         "title": "ESPN2",
         "uagent": "MediaPlayerPro15",
         "referer": ""
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "http://gxmas.ddns.net/live/Rolando7/Rolando7/963805.m3u8",
+        "title": "ESPN3",
+        "uagent": "MediaPlayerPro15",
+        "referer": ""
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "http://gxmas.ddns.net/live/Rolando7/Rolando7/1015997.m3u8",
+        "title": "ESPN4",
+        "uagent": "MediaPlayerPro15",
+        "referer": ""
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "http://gxmas.ddns.net/live/Rolando7/Rolando7/20039.m3u8",
+        "title": "ESPN5",
+        "uagent": "MediaPlayerPro15",
+        "referer": ""
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "http://gxmas.ddns.net/live/Rolando7/Rolando7/963807.m3u8",
+        "title": "ESPN6",
+        "uagent": "MediaPlayerPro15",
+        "referer": ""
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "http://gxmas.ddns.net/live/Rolando7/Rolando7/1105288.m3u8",
+        "title": "ESPN7",
+        "uagent": "MediaPlayerPro15",
+        "referer": ""
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "http://gxmas.ddns.net/live/Rolando7/Rolando7/1078828.m3u8",
+        "title": "FUTOL CANAL",
+        "uagent": "MediaPlayerPro15",
+        "referer": ""
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1886446341129113600/YXfNxY",
+        "source": "http://gxmas.ddns.net/live/Rolando7/Rolando7/1121333.m3u8",
+        "title": "FUTBOL CANAL",
+        "uagent": "MediaPlayerPro15",
+        "referer": ""
       } 
     ]
   },
